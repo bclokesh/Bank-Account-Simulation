@@ -6,7 +6,8 @@ A simple Java program to simulate basic banking operations using **Object-Orient
 ---
 
 ## 📸 Screenshot
-![Bank Account Simulation Screenshot](https://github.com/bclokesh/Bank-Account-Simulation/blob/847808ce4e2ad14b78abbcd1dbcc7a1005686414/Screenshot%202025-08-11%20220910.png.png)
+
+![Description of image](https://github.com/bclokesh/Bank-Account-Simulation/blob/847808ce4e2ad14b78abbcd1dbcc7a1005686414/Screenshot%202025-08-11%20220910.png)
 
 ---
 
